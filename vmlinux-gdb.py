@@ -1,0 +1,1 @@
+/home/ijkim/kernel/git/tpp/scripts/gdb/vmlinux-gdb.py
